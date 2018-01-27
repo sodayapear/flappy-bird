@@ -1,5 +1,5 @@
 # flappy-bird
 
-原生js写的flappy bird，用来练习canvas动画编写
-# 页面录屏
-![Alt text](https://raw.githubusercontent.com/sodayapear/flappy-bird/master/gif/1.gif)
+鍘熺敓js鍐欑殑flappy bird锛岀敤鏉ョ粌涔燾anvas鍔ㄧ敾缂栧啓
+# 椤甸潰褰曞睆
+![Alt text](https://raw.githubusercontent.com/sodayapear/flappy-bird/master/gif/1.gif) 
