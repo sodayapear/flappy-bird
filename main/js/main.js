@@ -19,11 +19,11 @@
 			prompt: 'img/prompt.png',
 			panel: 'img/scorepanel.png',
 			playbtn: 'img/play.png',
-			bg: 'img/background.png',
+			bg: 'img/background.PNG',
 			b0: 'img/bird1.png',
 			b1: 'img/bird2.png',
 			b2: 'img/bird3.png',
-			ground: 'img/ground.PNG',
+			ground: 'img/ground.png',
 			pipe: 'img/pipe.png',
 		}
 		var game = GuaGame.instance(30, images, function(g){
